@@ -2,6 +2,8 @@
 
 This repository contains the design files for a 2-digit 7-segment display PMOD, modeled after the Digilent PMOD design but without a dual-row Dupont male header pinout. The display is designed for 3.3V operation and uses multiplexing to control both digits using only 8 GPIOs (7 for segments, one for left/right digit select).
 
+![3D Rendering of the 7-Segment Display printed circuit board](img/7seg.png)
+
 ## Features
 
 - 2-digit 7-segment display
@@ -11,10 +13,6 @@ This repository contains the design files for a 2-digit 7-segment display PMOD, 
 ## Schematic
 
 The schematic for this design can be found in the [docs/schematic.pdf](docs/schematic.pdf) file.
-
-## 3D Rendering
-
-![3D Rendering of the 7-Segment Display printed circuit board](img/7seg.png)
 
 ## Repository Structure
 
