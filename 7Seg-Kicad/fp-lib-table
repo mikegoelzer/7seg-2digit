@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "7Seg Imported Footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.lib")(options "")(descr "Vendor footprints imported"))
+)
