@@ -3369,7 +3369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Double digit 7 segment bright red LED common anode"
+		(property "Description" "Double digit 7 segment bright red LED common cathode"
 			(at 140.335 78.105 0)
 			(effects
 				(font
