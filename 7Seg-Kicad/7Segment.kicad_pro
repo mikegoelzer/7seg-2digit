@@ -37,9 +37,9 @@
         "other_text_thickness": 0.1524,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.8,
+          "width": 1.325
         },
         "silk_line_width": 0.127,
         "silk_text_italic": false,
@@ -95,7 +95,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "error",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "error",
         "silk_overlap": "error",
         "skew_out_of_range": "error",
@@ -181,7 +181,9 @@
         0.1524,
         0.2032,
         0.254,
-        0.381
+        0.381,
+        0.762,
+        1.016
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -627,6 +629,10 @@
     [
       "896850b0-66e1-43af-94d9-3252de2d5272",
       "Root"
+    ],
+    [
+      "367b9cc3-0f3f-4b02-aad8-0453d6f0aaa3",
+      "Breadboard Matings"
     ]
   ],
   "text_variables": {}
